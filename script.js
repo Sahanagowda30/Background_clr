@@ -7,5 +7,6 @@ function changeBgColor()
     if(index > colors.length-1)
     {
            index=0;
+           console.log("okay");
     }
 }
